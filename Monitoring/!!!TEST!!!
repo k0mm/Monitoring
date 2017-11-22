@@ -1,0 +1,7 @@
+import requests
+
+r = requests.get('https://api.openweathermap.org/data/2.5/forecast?id=5202009&APPID=aa381018a37124f8582d2d52560ea692')
+temp = ((r.json())['list'][0])['main']['temp']
+#temp=temp.get('main')
+return(temp)
+#ApiWetherKey = 'aa381018a37124f8582d2d52560ea692'

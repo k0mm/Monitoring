@@ -1,0 +1,42 @@
+
+
+
+10439564431
+fd8cf63c-02ab-4951-9687-a6704731801b
+
+
+26119230731
+910802ec-0c41-414d-b6b1-122cfd65ca9a
+
+https://api.arabiandate.com/credits/accounts/26119230731/settings
+
+/credits/accounts/10439564431/settings
+
+
+
+10439564431
+fd8cf63c-02ab-4951-9687-a6704731801b
+
+
+
+
+
+
+
+===================================================================================
+
+
+zabbix_token_change_balance('13604', '{$CP.CR.RB.WSP.MAN.TOKEN}', RB_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.ARB.WSP.MAN.TOKEN}', AR_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.AFR.WSP.MAN.TOKEN}', AF_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.SHA.WSP.MAN.TOKEN}', SHA_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.ED.WSP.MAN.TOKEN}', EU_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.YTM.WSP.MAN.TOKEN}', YTM_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.YTM.WSP.GIRL.TOKEN}', YTM_Girl_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.NRB.WSP.GIRL.TOKEN}', RB_Girl_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.FW.WSP.MAN.TOKEN}', FW_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.YCD.WSP.MAN.TOKEN}', YCD_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.DMA.WSP.MAN.TOKEN}', DMA_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.DC.ZBX.MAN.TOKEN}', DC_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.AMO.ZBX.MAN.TOKEN}', AMO_Man_Token)
+zabbix_token_change_balance('13604', '{$CP.CR.ED.WSP.GIRL.TOKEN}', EU_Girl_Token)
